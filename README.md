@@ -10,4 +10,4 @@
 -   `php artisan route::clear to clear route problems`
 -   `php artisan view::clear to clear view problems`
 -   `php artisan optimize to restart Laravel`
--   `Prettier for php: composer fix-cs`
+-   `npm install and run npm run watch to use auto reload`
