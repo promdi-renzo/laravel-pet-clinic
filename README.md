@@ -1,8 +1,8 @@
-# laravel-pet-clinic 3rd sem
+### laravel-pet-clinic 3rd sem
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Create Database Name (Your Database).
 
 # SETUP
-
 -   `composer install`
 -   `setup env from env example and remove the example from the env example`
 -   `php artisan key:generate`
