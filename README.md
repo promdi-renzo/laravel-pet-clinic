@@ -10,4 +10,4 @@
 -   `php artisan route::clear to clear route problems`
 -   `php artisan view::clear to clear view problems`
 -   `php artisan optimize to restart Laravel`
--   `npm install and run npm run watch to use auto reload`
+-   `npm install and run npm run watch to use auto reload (needs the terminal to be split or add a new terminal for this to work)`
